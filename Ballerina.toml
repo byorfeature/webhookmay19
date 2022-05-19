@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.0.2"
+  export = ["may19_byor1"]
+  name = "may19_byor1"
+  org = "isurupiyarathnarucji"
+
